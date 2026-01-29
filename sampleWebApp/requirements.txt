@@ -1,0 +1,6 @@
+flask 
+pdfplumber
+python-docx
+pdfminer.six
+gunicorn
+prometheus-client
